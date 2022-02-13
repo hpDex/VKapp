@@ -7,9 +7,13 @@
 
 import UIKit
 
+
+
 class Session {
     
+    
     static let sessionInstance = Session()
+    
     
     private init () {}
     
